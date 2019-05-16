@@ -94,7 +94,7 @@
                 </li>
                 <li class="nav-item "<?php if($basemenu=='news'){ echo 'active';} ?>><a href="javascript: void(0)"  class="nav-link">News & Event <b class="caret"></b></a>
                 </li>
-                <li class="nav-item <?php if($basemenu=='tentang'){ echo 'active';} ?>"><a href="javascript: void(0)"  class="nav-link">Tentang Kami <b class="caret"></b></a>
+                <li class="nav-item <?php if($basemenu=='tentang'){ echo 'active';} ?>"><a href="tentang.php"  class="nav-link">Tentang Kami <b class="caret"></b></a>
                 </li>
                 <li class="nav-item <?php if($basemenu=='kontak'){ echo 'active';} ?>"><a href="kontak.php"  class="nav-link">Kontak <b class="caret"></b></a>
                 </li>
